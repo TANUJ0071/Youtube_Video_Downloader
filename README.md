@@ -11,3 +11,8 @@ You can install `yt_dlp` using pip if it's not already installed:
 
 ```bash
 pip install yt-dlp
+```
+
+### Run Program
+``` bash
+python ytdownload.ppy
