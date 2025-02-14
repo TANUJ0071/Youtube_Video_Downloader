@@ -15,4 +15,5 @@ pip install yt-dlp
 
 ### Run Program
 ``` bash
-python ytdownload.ppy
+python ytdownload.py
+
