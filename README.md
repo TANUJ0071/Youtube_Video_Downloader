@@ -1,2 +1,13 @@
-# Youtube_Video_Downloader
-This script downloads the highest quality video from a given URL using `yt_dlp` by setting the format option to 'best' and printing a "Download complete!" message upon completion.
+# YouTube Video Downloader using yt-dlp
+
+This is a simple Python script that downloads videos from a URL using the `yt_dlp` library, which is a popular tool for downloading videos from websites like YouTube.
+
+## Requirements
+
+- Python 3.x
+- `yt_dlp` library
+
+You can install `yt_dlp` using pip if it's not already installed:
+
+```bash
+pip install yt-dlp
